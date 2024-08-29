@@ -1,0 +1,8 @@
+1.Start
+2.number of drawers = 10
+3.Take out all socks from the drawers
+4.select one sock
+5.compare with all the socks to find the smallest size
+6.put it in the drawer starting from 1st drawer
+7.keep going back to step 4 until all 10 drawers are filled
+8.end
