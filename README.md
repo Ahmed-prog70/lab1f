@@ -1,3 +1,4 @@
-# lab1f
-introduction to my work
-## new ideas
+# _lab1f**\
+introduction to my work_**\
+## new ideas\
+>whats up
